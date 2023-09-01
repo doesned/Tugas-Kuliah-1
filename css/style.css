@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css2?family=Borel&family=Poppins);
+*{
+    font-family: 'Poppins', sans-serif;
+ }
+
+
+.gambarayam{
+    background-color: aqua;
+}
+
+.gambarlatar{
+background-color: grey;
+padding-bottom: 50px;
+}
+.desc{
+    border: 100px;
+    background: scroll;
+    background-color: aliceblue;
+}
+.cc{
+    background-color: blueviolet;
+}
+table{
+    text-align: center;
+    border: 1;
+}
+.line:hover{
+    background-color: red;
+}
+
+.tier{
+    margin-top: 30px;
+}
+.btn-login{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 20px;
+    border: none;
+    background-color: slategray;
+}
+.btn-login:hover{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 20px;
+    border: none;
+    background-color: slategray;
+    color: #FFFF
+}
